@@ -1,2 +1,2 @@
 # Telco-Analytics-IBM
-My solution for the Telco Analytics challenge by IBM using Python.
+Analysis a dataset to understand what are the most important drivers for customer churn and what recommendations can be given to reduce customer churn in the future as part of several challenges.
